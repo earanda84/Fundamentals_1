@@ -1,0 +1,15 @@
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_5/dia_5/Hello_Net_Core/Fundamentals_1/bin/Debug/net7.0/Fundamentals_1
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_5/dia_5/Hello_Net_Core/Fundamentals_1/bin/Debug/net7.0/Fundamentals_1.deps.json
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_5/dia_5/Hello_Net_Core/Fundamentals_1/bin/Debug/net7.0/Fundamentals_1.runtimeconfig.json
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_5/dia_5/Hello_Net_Core/Fundamentals_1/bin/Debug/net7.0/Fundamentals_1.dll
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_5/dia_5/Hello_Net_Core/Fundamentals_1/bin/Debug/net7.0/Fundamentals_1.pdb
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_5/dia_5/Hello_Net_Core/Fundamentals_1/obj/Debug/net7.0/Fundamentals_1.csproj.AssemblyReference.cache
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_5/dia_5/Hello_Net_Core/Fundamentals_1/obj/Debug/net7.0/Fundamentals_1.GeneratedMSBuildEditorConfig.editorconfig
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_5/dia_5/Hello_Net_Core/Fundamentals_1/obj/Debug/net7.0/Fundamentals_1.AssemblyInfoInputs.cache
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_5/dia_5/Hello_Net_Core/Fundamentals_1/obj/Debug/net7.0/Fundamentals_1.AssemblyInfo.cs
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_5/dia_5/Hello_Net_Core/Fundamentals_1/obj/Debug/net7.0/Fundamentals_1.csproj.CoreCompileInputs.cache
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_5/dia_5/Hello_Net_Core/Fundamentals_1/obj/Debug/net7.0/Fundamentals_1.dll
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_5/dia_5/Hello_Net_Core/Fundamentals_1/obj/Debug/net7.0/refint/Fundamentals_1.dll
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_5/dia_5/Hello_Net_Core/Fundamentals_1/obj/Debug/net7.0/Fundamentals_1.pdb
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_5/dia_5/Hello_Net_Core/Fundamentals_1/obj/Debug/net7.0/Fundamentals_1.genruntimeconfig.cache
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_5/dia_5/Hello_Net_Core/Fundamentals_1/obj/Debug/net7.0/ref/Fundamentals_1.dll
